@@ -1,0 +1,5 @@
+/egimirage ガルーダ・エギ カーバンクル・エメラルド
+/egimirage タイタン・エギ カーバンクル・トパーズ
+/egimirage イフリート・エギ カーバンクル・ルビー
+/action サモンII
+/macroicon サモンII

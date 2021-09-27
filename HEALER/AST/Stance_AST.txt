@@ -1,0 +1,3 @@
+/action ノクターナルセクト
+/action ダイアーナルセクト
+/macroicon ノクターナルセクト

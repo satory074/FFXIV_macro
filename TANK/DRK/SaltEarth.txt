@@ -1,0 +1,3 @@
+/action ソルトアース <t>
+/action ソルトアース
+/macroicon ソルトアース

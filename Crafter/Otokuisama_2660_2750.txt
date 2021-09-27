@@ -1,0 +1,8 @@
+/ac 匠の早業
+/ac 真価 <wait.3>
+/ac 精密作業 <wait.3>
+/ac 精密作業 <wait.3>
+/ac 精密作業 <wait.3>
+/ac ビエルゴの祝福 <wait.3>
+/ac 模範作業
+/echo 完成！ <se.10>

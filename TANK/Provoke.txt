@@ -1,0 +1,3 @@
+/action 挑発 <t>
+/p <t>を挑発しました <se.1>
+/macroicon 挑発

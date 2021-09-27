@@ -1,0 +1,3 @@
+/battleeffect self all
+/battleeffect party all
+/battleeffect other all
