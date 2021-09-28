@@ -1,0 +1,12 @@
+/echo ---- Start Resurrection ---- <se.1>
+/action 迅速魔 <wait.1>
+/action リザレク <t>
+/action リザレク <2>
+/action リザレク <3>
+/action リザレク <4>
+/action リザレク <5>
+/action リザレク <6>
+/action リザレク <7>
+/action リザレク <8>
+/echo ---- End Resurrection ---- <se.1>
+/mactionroicon リザレク
