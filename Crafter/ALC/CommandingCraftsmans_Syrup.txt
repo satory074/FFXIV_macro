@@ -1,10 +1,10 @@
-/ac 真価 <wait.3>
-/ac 下地加工 <wait.3>
-/ac イノベーション <wait.2>
-/ac ヴェネレーション <wait.2>
-/ac 精密作業 <wait.3>
-/ac 精密作業 <wait.3>
-/ac ビエルゴの祝福 <wait.3>
-/ac 下地作業
+/action 真価 <wait.3>
+/action 下地加工 <wait.3>
+/action イノベーション <wait.2>
+/action ヴェネレーション <wait.2>
+/action 精密作業 <wait.3>
+/action 精密作業 <wait.3>
+/action ビエルゴの祝福 <wait.3>
+/action 下地作業
 /echo 完成！ <se.10>
 /macroicon 巨匠の水薬 item
