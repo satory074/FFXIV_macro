@@ -1,4 +1,5 @@
-/echo ---- Start Asecend ---- <se.1>
+/macroerror off
+/echo ---- Start Asecend ---- <se.10>
 /action 迅速魔 <wait.1>
 /action アセンド <t>
 /action アセンド <2>
@@ -8,5 +9,5 @@
 /action アセンド <6>
 /action アセンド <7>
 /action アセンド <8>
-/echo ---- End Asecend ---- <se.1>
+/echo ---- End Asecend ---- <se.10>
 /mactionroicon アセンド

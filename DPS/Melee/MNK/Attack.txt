@@ -1,3 +1,4 @@
+/macroerror off
 /action カウンター
 /action 崩拳
 /action 双掌打
