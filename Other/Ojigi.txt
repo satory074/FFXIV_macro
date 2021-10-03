@@ -1,0 +1,2 @@
+/easternbow <t>
+/macroicon 東方風お辞儀 emote

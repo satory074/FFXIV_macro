@@ -1,0 +1,2 @@
+/shout どなたか蘇生をお願いできませんか... <pos>
+/macroicon 顔を覆う emote
