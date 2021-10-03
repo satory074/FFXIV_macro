@@ -10,4 +10,4 @@
 /action リザレク <7>
 /action リザレク <8>
 /echo ---- End Resurrection ---- <se.10>
-/mactionroicon リザレク
+/macroicon リザレク

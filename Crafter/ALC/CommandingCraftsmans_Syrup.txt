@@ -5,6 +5,6 @@
 /action 精密作業 <wait.3>
 /action 精密作業 <wait.3>
 /action ビエルゴの祝福 <wait.3>
-/action 下地作業
+/action 下地作業 <wait.2>
 /echo 完成！ <se.10>
 /macroicon 巨匠の水薬 item

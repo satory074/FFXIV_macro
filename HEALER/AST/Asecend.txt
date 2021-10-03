@@ -10,4 +10,4 @@
 /action アセンド <7>
 /action アセンド <8>
 /echo ---- End Asecend ---- <se.10>
-/mactionroicon アセンド
+/macroicon アセンド
